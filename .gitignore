@@ -1,0 +1,4 @@
+node_modules/
+.env
+financas.db
+auth_info/
