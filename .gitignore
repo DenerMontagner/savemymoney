@@ -1,4 +1,4 @@
 node_modules/
 .env
-db.js
+financas.db
 auth_info/
